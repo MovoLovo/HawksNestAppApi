@@ -1,0 +1,30 @@
+{
+  "name": "hawksnestappapi",
+  "version": "1.0.0",
+  "description": "Api to communicate with Hawks Nest App.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MovoLovo/HawksNestAppApi.git"
+  },
+  "author": "Spencillian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MovoLovo/HawksNestAppApi/issues"
+  },
+  "homepage": "https://github.com/MovoLovo/HawksNestAppApi#readme"
+}
